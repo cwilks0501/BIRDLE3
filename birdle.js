@@ -1,4 +1,4 @@
-const birdName = "tucan"; // Change this to the name of the bird
+const birdName = "toucan"; // Change this to the name of the bird
 let attempts = 0;
 
 function checkGuess() {
